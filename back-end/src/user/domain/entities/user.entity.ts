@@ -27,7 +27,7 @@ export class User {
     )
   }
 
-    getId(): UserId {
+  getId(): UserId {
     return this.id;
   }
 
